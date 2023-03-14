@@ -48,6 +48,7 @@ export const SubmitBtn = styled.button`
 	font-style: normal;
 	width: 100%;
 	border: 1px solid #16a085;
+	border-radius: 8px;
 	border-width: 1px 1px 3px;
 	margin-bottom: 10px;
 `
